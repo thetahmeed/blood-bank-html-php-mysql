@@ -31,5 +31,5 @@ index.php
 ```
 
 ## Screenshot
-![Blood Donner Project Screenshot]([image_url](https://github.com/thetahmeed/blood-bank-html-php-mysql/blob/main/Screenshot%202025-01-12%20at%209.30.51%E2%80%AFPM.png))
+![Blood Donner Project Screenshot]([image_url](https://raw.githubusercontent.com/thetahmeed/blood-bank-html-php-mysql/refs/heads/main/Screenshot%202025-01-12%20at%209.30.51%E2%80%AFPM.png))
 
